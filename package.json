@@ -40,6 +40,14 @@
             "arm64",
             "x64"
           ]
+        },
+        {
+          "target": "apk",
+          "arch": [
+            "armv7l",
+            "arm64",
+            "x64"
+          ]
         }
       ],
       "category": "Utility"
